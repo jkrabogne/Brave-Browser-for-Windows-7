@@ -17,3 +17,5 @@ Full credit and acknowledgment are extended to the original developers and contr
 This repository focuses on additional browser-specific compatibility research, dependency analysis, troubleshooting, experimental modifications, debugging, and technical validation.
 
 This project is independent and is not officially affiliated with or endorsed by the VxKex developers, Brave Software, Microsoft, Google, or the Chromium Project.
+
+<img width="1637" height="916" alt="Screenshot 2026-11-25 190651" src="https://github.com/user-attachments/assets/836ae9da-a067-4033-bd24-b15bf69f5169" />
