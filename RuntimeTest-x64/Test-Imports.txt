@@ -1,0 +1,90 @@
+Microsoft (R) COFF/PE Dumper Version 10.00.40219.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\BraveTest\VxKexDevelopment\QueryInterruptTimePrecise-x64\RuntimeTest-x64\KxBaseTimingTest.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Section contains the following imports:
+
+    KERNEL32.dll
+             14000D000 Import Address Table
+             14000FE20 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                         208 GetLastError
+                         29B GetTickCount64
+                         4C0 Sleep
+                         24C GetProcAddress
+                         202 GetFullPathNameW
+                         21A GetModuleFileNameW
+                         341 LoadLibraryW
+                         277 GetSystemDirectoryW
+                         21E GetModuleHandleW
+                          F2 EnterCriticalSection
+                         33B LeaveCriticalSection
+                         18D GetCommandLineW
+                         425 RtlUnwindEx
+                          CB DecodePointer
+                         4E2 UnhandledExceptionFilter
+                         4B3 SetUnhandledExceptionFilter
+                         302 IsDebuggerPresent
+                         426 RtlVirtualUnwind
+                         41F RtlLookupFunctionEntry
+                         418 RtlCaptureContext
+                          EE EncodePointer
+                         4CE TerminateProcess
+                         1C6 GetCurrentProcess
+                         178 GetCPInfo
+                         16E GetACP
+                         23E GetOEMCP
+                         30C IsValidCodePage
+                         15A FlsGetValue
+                         15B FlsSetValue
+                         159 FlsFree
+                         480 SetLastError
+                         1CB GetCurrentThreadId
+                         158 FlsAlloc
+                         47C SetHandleCount
+                         26B GetStdHandle
+                         2EB InitializeCriticalSectionAndSpinCount
+                         1FA GetFileType
+                         26A GetStartupInfoW
+                          D2 DeleteCriticalSection
+                         2D7 HeapFree
+                         11F ExitProcess
+                         534 WriteFile
+                         167 FreeEnvironmentStringsW
+                         1E1 GetEnvironmentStringsW
+                         2DB HeapSetInformation
+                         2AA GetVersion
+                         2D5 HeapCreate
+                         3A9 QueryPerformanceCounter
+                         29A GetTickCount
+                         1C7 GetCurrentProcessId
+                         280 GetSystemTimeAsFileTime
+                         520 WideCharToMultiByte
+                         32F LCMapStringW
+                         369 MultiByteToWideChar
+                         270 GetStringTypeW
+                         2D3 HeapAlloc
+                         2DA HeapReAlloc
+                         1A0 GetConsoleCP
+                         1B2 GetConsoleMode
+                         15D FlushFileBuffers
+                         474 SetFilePointer
+                         2DC HeapSize
+                         533 WriteConsoleW
+                         494 SetStdHandle
+                          52 CloseHandle
+                          8F CreateFileW
+
+  Summary
+
+        4000 .data
+        1000 .pdata
+        4000 .rdata
+        1000 .reloc
+        C000 .text
