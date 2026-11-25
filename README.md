@@ -6,7 +6,7 @@ An independent research and development project investigating Brave browser comp
 
 ### VxKex — Windows 7 API Extensions
 
-This project utilizes VxKex as a third-party application compatibility layer to investigate the feasibility of running modern versions of Brave and Chromium-based browsers on Windows 7.
+This project utilizes VxKex as a third-party application compatibility layer to investigate the feasibility of running modern versions of Brave on Windows 7.
 
 **Original project:** [VxKex — Windows 7 API Extensions](https://github.com/i486/VxKex)
 
